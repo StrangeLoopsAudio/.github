@@ -6,6 +6,7 @@ Our current catalog is:
 
 - gRainbow: a pitch-detecting granular synthesizer (standalone, VST3, AU, LV2)
 - The Harmonigon: a simple interactive harmonic table MIDI sequencer/synthesizer (standalone)
+- Standard Input M4L (aka std::input): A Max for Live version of Standard Input, a mouse signal modulator
 
 <!--
 
